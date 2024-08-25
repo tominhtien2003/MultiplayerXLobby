@@ -1,0 +1,4 @@
+repository "MultiplayerWithLobby@unity_54A88BCA99CA69087D02@cloud"
+  path "/"
+    br "/main"
+    co "/main"
